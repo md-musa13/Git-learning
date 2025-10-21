@@ -1,13 +1,1 @@
-
-Hello world
-
-
-
-second time cheng my file
-
-
-this is the chang by feature-1 
-
-
-this line added by feature-2
-
+Hello iam cheng file in f-1 branch
